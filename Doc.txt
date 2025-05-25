@@ -1,0 +1,8 @@
+FEATURES:
+    1. Swagger Documentation
+    2. Pydantic
+    3. JSON
+    4. Security and Authentication (HTTP, OAuth2 etc)
+    5. Dependency Injection
+    6. Starlette features
+
